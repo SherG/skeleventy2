@@ -10,5 +10,5 @@ eleventyNavigation:
   order: 3
 ---
 
-Thinking of moving to rural New Hampshire? This blog is a place to discover what the experience is really like.
+Discover what life is like in rural New Hamsphire.
 
