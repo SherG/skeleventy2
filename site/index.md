@@ -8,12 +8,14 @@ eleventyNavigation:
   order: 1
 ---
 
-## Some topics we'll be covering
+### Some topics we'll be covering
 
 - Wildlife
 - Winter preps
 - Jobs
 - Great hikes
-- Small businesses
+- Unique small businesses
+
+#### Dive into our <a href="/blog/">blog</a>!
 
 
