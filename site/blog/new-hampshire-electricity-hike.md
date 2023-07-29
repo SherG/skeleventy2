@@ -1,16 +1,17 @@
 
 ---
-date: 2022-07-23
-title: Electricity hike of 112 percent highlights poor New England energy design
-meta_description: New Hampshire's electricity costs are far higher than they need to be. Blame voters and lack of state leadership.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg
+date: 2019-12-24
+title: Electricity hike highlights poor energy design
+meta_description: Are there are wild boar in New Hampshire? Yes! And you'll be surprised how they got here, why they're hard to find, and some interesting failures in controlling them. 
+post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg
 image_alt: 
-sub_heading: Why our energy policies are bonkers.
+sub_heading: Wild boar were spotted running in the ravine out back. Turns out
+  they're "escaped private property" and belong to a hunting preserve over an
+  hour away.
 tags:
-    - energy
+    - wildlife
     - blog
 ---
-
 
 Our local electricity provider Eversource has received an approval for a 112% increase in energy supply costs charged to consumers. This was first reported by media in June, which warned of "<a href="https://www.wmur.com/article/new-hampshire-increases-electricity-bills-61622/40314355" target="blank">drastic increases</a>" in bills.
 
