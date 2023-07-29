@@ -2,7 +2,7 @@
 date: 2022-03-28
 title: Food Shortages - What to Expect
 meta_description: President Joe Biden's recent remarks on coming food shortages are being misinterpreted by some. Here's what you need to know.
-post_image: https://res.cloudinary.com/dxnnp3gaw/image/upload/f_auto/v1648434427/decodr/ukraine-wheat_ppzg4g.avif
+post_image: 
 image_alt: Ukrainian wheat field by Polina Rytova / @polina_art via Unsplash
 sub_heading: President Joe Biden's recent remarks on coming food shortages are being misinterpreted 
 tags:
