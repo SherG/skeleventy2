@@ -1,7 +1,7 @@
 ---
 layout: blog
 meta_title: Blog
-meta_description: The Skeleventy blog - a place to voice our useless opinions.
+meta_description: Life in rural New Hampsire
 hide_from_sitemap: true
 robots: noindex,follow
 title: The blog
@@ -10,4 +10,5 @@ eleventyNavigation:
   order: 3
 ---
 
-A place to voice our useless opinions.
+Thinking of moving to rural New Hampshire? This blog is a place to discover what the experience is really like.
+
