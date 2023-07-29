@@ -1,16 +1,13 @@
 ---
-date: 2019-12-24T20:14:36.498Z
-title: Wild Boar On the Lam
-meta_description: Wild boar were spotted running in the ravine out back. Turns out
-  they're "escaped private property" and belong to a hunting preserve over an
-  hour away.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg
-image_alt: Photo of young wild boar in snow
-sub_heading: Wild boar were spotted running in the ravine out back. Turns out
-  they're "escaped private property" and belong to a hunting preserve over an
-  hour away.
+date: 2019-10-30
+title: Five things you need to know to run a podcast
+meta_description: A Podcast is an episodic series of digital audio files which a user can subscribe to so that new episodes are automatically downloaded via web syndication to the user’s own local computer, mobile application, or portable media player.
+post_image: /images/post-2.jpg
+image_alt: Photo by Jonathan Velasquez on Unsplash
+sub_heading: A Podcast is an episodic series of digital audio files which a user can subscribe to so that new episodes are automatically downloaded via web syndication to the user’s own local computer, mobile application, or portable media player.
 tags:
- - wildlife
+    - blog
+    - digital
 ---
 
 On Christmas Eve wild boar were spotted running in the stream-cut ravine out back. Three men from a local excavating business spied them. They were excited about their discovery. 
