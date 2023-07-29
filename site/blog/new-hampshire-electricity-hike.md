@@ -3,7 +3,7 @@
 date: 2022-07-23
 title: Electricity hike of 112 percent highlights poor New England energy design
 meta_description: New Hampshire's electricity costs are far higher than they need to be. Blame voters and lack of state leadership.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg
+post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg
 image_alt: 
 sub_heading: Why our energy policies are bonkers.
 tags:
