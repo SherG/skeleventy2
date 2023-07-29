@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 1
 ---
 
-### Some topics we'll be covering
+#### Some topics we cover:
 
 - Wildlife
 - Winter preps
