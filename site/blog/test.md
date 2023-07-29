@@ -1,12 +1,10 @@
 ---
 date: 2019-12-24
 title: Just a test
-meta_description: Are there are wild boar in New Hampshire? Yes! And you'll be surprised how they got here, why they're hard to find, and some interesting failures in controlling them. 
+meta_description: What's behind New Hampshire's screwy electricity policies?
 post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1665109151/ruralnh/lng-tanker_hqoojr.jpg
 image_alt: 
-sub_heading: Wild boar were spotted running in the ravine out back. Turns out
-  they're "escaped private property" and belong to a hunting preserve over an
-  hour away.
+sub_heading: It's not the electric company's fault though.
 tags:
     - wildlife
     - blog
