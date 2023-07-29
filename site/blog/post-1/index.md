@@ -9,6 +9,7 @@ sub_heading: Wild boar were spotted running in the ravine out back. Turns out
   hour away.
 tags:
     - wildlife
+    - blog
 ---
 
 On Christmas Eve wild boar were spotted running in the stream-cut ravine out back. Three men from a local excavating business spied them. They were excited about their discovery. 
