@@ -67,7 +67,7 @@ This past winter I looked up from my desk and caught a view of a coyote bounding
 
 I ran to the next window and saw there actually two coyotes — one following the other.
 
-> Wild animals usually mind their own business. It's unlikely you’ll have a problem with them if you mind your own business as well.
+> Wild animals usually mind their own business. 
 
 During the spring, sitting at the same desk, I looked up to see a bobcat sauntering lazily across the grass. A few months later, a different bobcat made an appearance. 
 
