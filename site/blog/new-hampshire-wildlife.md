@@ -59,7 +59,6 @@ If you have the option, choose a home that has enough interior space so that Flu
 
 ![](/images/chloe-on-pouf.jpg) <br/> Chloe the Cat, experiencing cabin fever.
 
-<hr>
 
 ## Close Encounters
 
