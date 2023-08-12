@@ -57,7 +57,8 @@ Other than the back balcony, I kept my late cat indoors and she chafed against t
 
 If you have the option, choose a home that has enough interior space so that Fluffy the Cat run around at full speed and get adequate exercise. 
 
-![](/images/chloe-on-pouf.jpg) <br/> Chloe the Cat, experiencing cabin fever.
+<img src="/images/chloe-on-pouf.jpg">
+<em>Chloe the Cat, experiencing cabin fever.</em>
 
 
 ## Close Encounters
