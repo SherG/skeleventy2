@@ -1,8 +1,8 @@
 ---
 date: 2019-03-23
-title: Wildlife Sightings: Bears, Bobcats, and Coyotes in New Hampshire
+title: Wildlife Sightings - Bears, Bobcats, and Coyotes in New Hampshire
 meta_description: Here are some of the incredible wild animals you can expect to see or encounter once you move to New Hampshre.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1665109151/ruralnh/lng-tanker_hqoojr.jpg
+post_image: https://res.cloudinary.com/icecloud7/image/upload/w_750,f_auto,q_auto,e_sharpen/v1570511812/ruralnh/coyote_nslzqu.png
 image_alt: 
 sub_heading: What sort of wildlife can you expect to see in rural New Hampshire? Are there really cougars and wolves in the granite state? And what does all this mean for Fluffy the Cat?
 tags:
