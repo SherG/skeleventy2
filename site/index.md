@@ -7,6 +7,7 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+# Life in Rural New Hampshire
 
 <img src="../images/rural-new-hamsphire-scene.jpeg" />
 
