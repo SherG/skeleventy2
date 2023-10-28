@@ -7,7 +7,6 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-### A headline 
 
 <img src="../images/rural-new-hamsphire-scene.jpeg" />
 
