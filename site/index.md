@@ -1,6 +1,6 @@
 ---
 layout: home
-meta_title: Home
+meta_title: Life in rural New Hampshire
 meta_description: What's it like to live in rural New Hampshire? Find out in this candid blog that covers weather, heating, driving, jobs, wildlife, and more.
 sub_heading: Get a candid take on life in rural New Hampshire
 eleventyNavigation:
