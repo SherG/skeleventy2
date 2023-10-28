@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 ### A headline 
 
-<img src="images/rural-new-hamsphire-scene.jpg" />
+<img src="../images/rural-new-hamsphire-scene.jpeg" />
 
 #### Some topics we cover:
 
