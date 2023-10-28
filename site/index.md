@@ -7,6 +7,8 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+### A headline 
+
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1698512110/ruralnh/rural-new-hamsphire-scene_g59jrv.jpg" / >
 
 #### Some topics we cover:
