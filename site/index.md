@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 ### A headline 
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1698512110/ruralnh/rural-new-hamsphire-scene_g59jrv.jpg" / >
+<img src="../images/rural-new-hamsphire-scene.jpg" />
 
 #### Some topics we cover:
 
