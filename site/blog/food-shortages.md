@@ -61,7 +61,7 @@ She added, "we are acutely aware of the fact that there are regions that depend 
 Her comments about price signals were generic in nature and given in response to a reporter's question about whether US farmers "should grow more wheat instead of corn and soybeans . . ."
 
 
-## A Perfect Storm of Food Issues
+## Agricultural Headwinds
 
 To be sure, agriculture is facing headwinds, including:
 
