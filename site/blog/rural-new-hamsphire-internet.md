@@ -1,15 +1,12 @@
-
 ---
-date: 2018-01-09
-title: Internet Service in Rural New Hampshire - A Real Challenge
-meta_description: Getting good internet service may be your biggest challenge in moving to New
-  Hampshire.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg
+date: 2022-07-24
+title: Electricity hike of 112% highlights New England's poor energy design
+meta_description: What's behind New Hampshire's screwy electricity policies?
+post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1665109151/ruralnh/lng-tanker_hqoojr.jpg
 image_alt: 
-sub_heading: Getting good internet service may be your biggest challenge in moving to New
-  Hampshire. 
+sub_heading: It's not the electric company's fault though.
 tags:
-    - internet
+    - energy
     - blog
 ---
 
