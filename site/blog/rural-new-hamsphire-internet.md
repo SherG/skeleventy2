@@ -1,7 +1,7 @@
 
 ---
 date: 2018-01-09
-title: Internet Service in Rural New Hampshire: A Real Challenge
+title: Internet Service in Rural New Hampshire - A Real Challenge
 meta_description: Something goes here
 post_image: https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto,e_sharpen/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg
 image_alt: view from rural cabin in new hampshire
