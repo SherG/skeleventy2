@@ -4,14 +4,13 @@ date: 2018-01-09
 title: Internet Service in Rural New Hampshire - A Real Challenge
 meta_description: Getting good internet service may be your biggest challenge in moving to New
   Hampshire.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto,e_sharpen/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg
-image_alt: view from rural cabin on river in new hampshire
+post_image: https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg
+image_alt: 
 sub_heading: Getting good internet service may be your biggest challenge in moving to New
   Hampshire. 
 tags:
-  - blog
-  - Internet
-
+    - internet
+    - blog
 ---
 
 Whether you're self-employed, a small business owner, or a member of the gig economy, there are good reasons to consider a move to rural New Hampshire.  
