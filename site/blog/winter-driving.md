@@ -7,7 +7,7 @@ image_alt:
 sub_heading: Prepping your car for winter will make you feel like a real Yankee in no time.
 tags:
   - blog
-  - Winter in New Hampshire
+  - Winter
 
 ---
 
