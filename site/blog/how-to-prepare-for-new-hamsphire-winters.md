@@ -2,7 +2,7 @@
 date: 2018-01-23
 title: How to Stay Warm in New Hampshire Winters
 meta_description: Tips about heating home methods and dressing for winter.
-post_image: https://res.cloudinary.com/icecloud7/image/upload/w_750,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
+post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
 image_alt: Ukrainian wheat field by Polina Rytova / @polina_art via Unsplash
 sub_heading: Everything you need to know to get ready for winter.
 tags:
