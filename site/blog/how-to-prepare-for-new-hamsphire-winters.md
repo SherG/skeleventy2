@@ -7,7 +7,7 @@ image_alt:
 sub_heading: Everything you need to know to get ready for winter.
 tags:
   - blog
-  - Winter in New Hamsphire
+  - Winter
 
 ---
 
