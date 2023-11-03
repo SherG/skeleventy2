@@ -49,7 +49,7 @@ Furthermore, Russia has imposed <a href="https://www.reuters.com/business/russia
 
 Unfortunately, <em>Bloomberg</em> didn't fare much better when it published this story: "<a href="https://www.bloomberg.com/news/articles/2022-03-28/white-house-banks-on-price-signals-to-avert-food-shortage" target="blank">White House Banks on ‘Price Signals’ to Avert Food Shortage</a>." 
   
-The first line of the story reads: "U.S. farmers will respond to 'price signals' and increase their production to avert any domestic food shortage stemming from Russia’s invasion of Ukraine, the White House’s chief economist said Monday." 
+The first line of the story reads: "U.S. farmers will respond to 'price signals' and increase their production to avert any <strong>domestic food shortage</strong> stemming from Russia’s invasion of Ukraine, the White House’s chief economist said Monday." 
 
 Farmers of course are always responding to price signals. The problem with the sentence is:
 1) War-based food shortages are afflicting other countries - not the U.S. 
