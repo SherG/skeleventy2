@@ -34,7 +34,7 @@ When I first moved up here my primary source of winter heat was a Vermont Castin
 
 The stove was super-efficient: it was really more than was needed to heat the home. 
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/w_450,q_auto,f_auto,e_sharpen/v1572242968/ruralnh/my-wood-stove_vbxfbt.jpg" class="right" alt="gas stove">
+<img src="https://res.cloudinary.com/icecloud7/image/upload/w_450,f_auto,e_sharpen/v1572242968/ruralnh/my-wood-stove_vbxfbt.jpg" class="right" alt="gas stove">
 
 In fact you can easily heat a 2,400 sq. ft. space with one propane stove. (Check the model you're interested in to see what square footage it's rated to heat.)
 
