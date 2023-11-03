@@ -18,13 +18,15 @@ The President went on to suggest that the United States and Canada -- two of the
 
 Earlier in the press conference Biden said that the U.S. was "coordinating with the G7 and the European Union on food security, as well as energy security."
 
-## Tucker Carlson Gets It Wrong
+## Out of Context
 
 The next night, Fox News host Tucker Carlson replayed some of Biden's comments and claimed that food shortages Biden was talking about were not going to occur overseas, but right here, in the United States.
 
+Granted, this isn't a New Hampshire subject. But we decided to share it here, for readers who are interested in the topic. The Connecticut River Valley is a fertile agricultural zone and the entire state has numerous options for residents to buy produce, meat, and dairy products directly from farms.
+
 Here's what Carlson <a href="https://www.youtube.com/embed/ohGa1DcA6BI" target="blank">told an audience</a> of millions: "Once again, in case you missed it, to repeat, 'food shortages.' Not in Sudan! In Cinncinnati, in Reno, in Spokane, in Norfolk and of course in our big cities too, where not a single person born here has an idea of what a food shortage is. Our problem's always been having too much food. Now we won't have enough. We know that because the President of the United States just told us that on camera." 
 
-Unfortunately, Carlson was not the only broadcast that got this story wrong. Another Fox News show, "The Five," also <a href="https://www.youtube.com/watch?v=iR-7d7cLbQA" target="blank">promoted the false story</a>.
+Unfortunately, Carlson was not the only broadcast that got this story wrong. Another Fox News show, "The Five," also <a href="https://www.youtube.com/watch?v=iR-7d7cLbQA" target="blank">seemed confused on the topic.</a>.
 
 While it's true that the President has a tendency to be unclear in off-the-cuff remarks, anyone who's been following the Russia-Ukraine war would know better that to interpret Biden's statements in this way.
 
@@ -51,7 +53,7 @@ The first line of the story reads: "U.S. farmers will respond to 'price signals'
 
 Farmers of course are always responding to price signals. The problem with the sentence is:
 1) War-based food shortages are afflicting other countries - not the U.S. 
-2) The White House's chief economist did not say that that US would face shortages - she said the opposite
+2) The White House's chief economist did not say that that US would face shortages - she said the opposite.
 3) And she did not say that farmers would grow more wheat to avert domestic shortages.
   
 The Bloomberg story is based on a <a href="https://youtu.be/MAhOURpjBHY?t=923" target="blank">press conference</a> that featured economist Celia Rouse. During the press conference she made clear that higher energy and fertilizer prices are expected to increase food prices in the U.S., but, "we don't expect a shortage here because we are net exporters."
@@ -65,21 +67,21 @@ Her comments about price signals were generic in nature and given in response to
 
 To be sure, agriculture is facing headwinds, including:
 
-* Higher fertilizer prices (due to the energy crisis) and supply disruptions (e.g., <a href="https://www.politico.eu/article/eu-sanctions-higher-food-prices-potash/" target="blank">sanctions on Belarus</a>)
+* Higher fertilizer prices due to the energy crisis and supply disruptions (e.g., <a href="https://www.politico.eu/article/eu-sanctions-higher-food-prices-potash/" target="blank">sanctions on Belarus</a>)
 * Increasing natural gas costs (used for example, in grain drying and fertilizer production)
-* Food and energy inflation which were problems before the Russia-Ukraine war. 
-* Brazil and Argentina's drought: which will lead some countries to source crops from the US instead.
+* Food and energy inflation which were problems before the Russia-Ukraine war
+* Brazil and Argentina's drought: which will lead some countries to source crops from the US instead
 * Reduced wheat production in 2021 in Canada (down 36%) and the US northern plains (down 44%) due to drought (Source: Gro Intelligence's data platform)
 * Rising freight prices
 * China's increased need for wheat and other food staples
 
 ### In sum
 
-While food inflation is hitting all families hard, there remains a chasm between the poor in developing countries -- some of whom live on diminishing rations of bread and oil -- and Americans who still have an abundance of food (and food programs) to choose from. 
+While food inflation is hitting all families hard, there remains a chasm between the poor in developing countries — some of whom live on diminishing rations of bread and oil — and Americans who still have an abundance of food (and food programs) to choose from. 
 
 Indeed the U.S. produces far in excess of 100% of its food needs. That's why we exported over <a href="https://www.usda.gov/media/press-releases/2022/02/08/american-agricultural-exports-shattered-records-2021" target="blank">$170 billion</a> in food last year.
 
-While Biden's remarks were not as clear as they could've been, broadcasters should take care to provide context, determine meaning, and vet facts. This can be done easily by letting experts in agricultural markets weigh in or officials from the USDA. 
+While Biden's remarks were not as clear as they could've been, broadcasters should take care to provide context, determine meaning, and vet facts. 
 
 Leaping to absurd conclusions can create anxiety and even fuel panic buying. 
 
