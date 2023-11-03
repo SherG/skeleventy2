@@ -18,7 +18,7 @@ The President went on to suggest that the United States and Canada -- two of the
 
 Earlier in the press conference Biden said that the U.S. was "coordinating with the G7 and the European Union on food security, as well as energy security."
 
-## Out of Context
+## Tucker Carlson Gets It Wrong
 
 The next night, Fox News host Tucker Carlson replayed some of Biden's comments and claimed that food shortages Biden was talking about were not going to occur overseas, but right here, in the United States.
 
