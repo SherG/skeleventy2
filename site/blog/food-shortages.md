@@ -39,7 +39,7 @@ Biden was responding to a two-part question from a reporter, which included this
 
 As we mentioned, the U.S. and other countries in the G7 are working together to address the shortfall that countries dependent on Russia/Ukraine exports will experience. 
 
-There have been many articles forecasting global hunger issues as a result of the war. Some expect tens of millions to be affected. For example, Sudan (yes, <em>that</em> Sudan that Tucker Carlson mentioned) imports over <a href="https://www.france24.com/en/live-news/20220321-ukraine-war-s-impact-on-wheat-threatens-hunger-in-sudan-aid-group" target="blank">80%</a> of its wheat from Ukraine and Russia. Other nations rimming the eastern Mediterranean are at risk as well of not only hunger, but also social unrest. 
+There have been many articles forecasting global hunger issues as a result of the war. Some expect tens of millions to be affected. For example, Sudan imports over <a href="https://www.france24.com/en/live-news/20220321-ukraine-war-s-impact-on-wheat-threatens-hunger-in-sudan-aid-group" target="blank">80%</a> of its wheat from Ukraine and Russia. Other nations rimming the eastern Mediterranean are at risk as well of not only hunger, but also social unrest. 
 
 With blockades in the Black Sea and the difficulty of Ukrainian farmers doing field work during the war, Ukraine's 2022 (and 2023) harvests are a big question mark. Ukraine has also frozen future exports to prioritize feeding its own citizens given the devastation wrought by the war.
 
