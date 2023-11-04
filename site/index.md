@@ -11,11 +11,10 @@ eleventyNavigation:
 
 <img src="../images/rural-new-hamsphire-scene.jpeg" />
 
-#### Some topics we cover:
+#### Some topics we'll be covering:
 
 - Wildlife
 - Winter preps
-- Jobs
 - Great hikes
 - Unique small businesses
 
