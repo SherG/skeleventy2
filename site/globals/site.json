@@ -1,8 +1,8 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.app",
+    "name": "RuralNH",
+    "url": "https://ruralnh.org",
     "author": {
-        "name": "Mill Burray",
+        "name": "Sherrie Gossett",
         "handle": "@joe_dyer1"
     },
     "images": {
@@ -13,7 +13,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/josephdyer/skeleventy",
-        "twitter": "https://twitter.com/joe_dyer1"
+        "github": "https://github.com/SherG/skeleventy2",
+        "twitter": "https://twitter.com/sherrie_go"
     }
 }
