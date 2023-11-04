@@ -28,4 +28,3 @@ I hope you find it to be an unvarnished account and of practical use.
 Thank you for visiting!
 
 Sherrie Gossett
-Founder @ Spearfish
