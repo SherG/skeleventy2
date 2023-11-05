@@ -1,0 +1,7 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+/winter/  /how-to-prepare-for-new-hamsphire-winters/  
+
+# Redirect default Netlify subdomain to primary domain
+
+https://chimerical-scone-d4ae77.netlify.app/* https://ruralnh.org:splat 301!
