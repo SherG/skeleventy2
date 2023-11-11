@@ -1,5 +1,5 @@
 ---
-date: 2018-01-23
+date: 2023-11-10
 title: How to Stay Warm in New Hampshire Winters
 meta_description: Tips about heating home methods and dressing for winter.
 post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
@@ -72,7 +72,11 @@ You want to avoid being ripped off by someone who sells you "green" firewood tha
 
 Find a good source — like the town clerk — who can tell you where you can find quality firewood.
 
-I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or kiln-dried wood (my favorite). 
+I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. 
+
+Oliver Wendell Holmes said it best: "Knowledge and timber shouldn't be used until they are seasoned."
+
+At Treehugger Farms, you can buy seasoned, semi-seasoned, or kiln-dried wood (my favorite). 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1579383396/ruralnh/donna-treehuggers-westmoreland-nh_elzj3m.png" alt="treehuggers westmoreland nh"/><p><em>Treehuggers, in southwestern New Hampshire, is a great source for firewood. If you're a transplanted city slicker, don't hestitate to ask owners Jon and Donna Clark (pictured above) for fire-building tips.</em></p><hr>
 
@@ -80,13 +84,13 @@ Their delivery radius covers much of southwestern New Hamsphire and parts of sou
 
 Kiln-dried wood is ready to burn, and catches fire quickly. Another benefit of kiln-dried: there aren't any bugs in the wood.
 
-That's a plus if you want to stack a good amount inside your home, as I do. I stack about 3-4 weeks' worth. That cuts down on the number of times I have to haul wood from the barn to my home.
+That's a plus if you want to stack a good amount inside your home, as I do. I stack about 3-4 weeks' worth. That cuts down on the number of times I have to haul wood inside.
 
 Spring is the time to purchase semi-seasoned. You need to give it a good 9 months to dry out. 
 
 #### Semi-Seasoned vs. Kiln-Dried
 
-Semi-seasoned is considerably cheaper than kiln-dried. You can buy a cord of semi-seasoned for about $225. Kiln-dried firewood is currently going for $380/cord. 
+Semi-seasoned is considerably cheaper than kiln-dried. Check out <a href="https://treehuggerfarms.com/kiln-dried-firewood/" target="blank">Treehugger Farm's current prices</a>.
 
 #### How much firewood do I need?
 
@@ -99,17 +103,17 @@ How much firewood you need will be partly determined on whether you plan to rely
 
 > Tip: Before you go to bed, put an "all-nighter" on the fire. This is simply one of the biggest logs in your stack. It won't really last "all night" but it will help maintain your heat longer.
 
-Consider: it'll get cold in the middle of the night after your fire's gone out. Do you want to get up a few times during the night to start a new fire? \
-\
+Consider: it'll get cold in the middle of the night after your fire's gone out. Do you want to get up a few times during the night to start a new fire? 
+
 If not, you'll need to use a thermostat-controlled space heater or baseboard heating. 
 
 Realize that as late as April and May you may be running your wood stove — at least at night.
 
 Knowing that timing is an important factor in cost of firewood should help you when planning your move.
 
-#### Beware: Firewood Deliveries Might Become Significantly Delayed
+#### Beware: Firewood Delivery Times Fluctuate
 
-It's important to not expect delivery dates to remain the same year after year. They can fluctuate dramatically.
+It's important to not expect delivery dates to remain the same year after year. They can fluctuate significantly.
 
 Here's what I mean. 
 
@@ -117,8 +121,6 @@ Here's what I mean.
 * The second year I bought firewood — from the same source — there was a 2-month wait. 
 
 The lesson here is: don't assume. Or, assume the worst. 
-
-> Knowledge and timber shouldn't be used until they are seasoned.<br/> <cite> - Oliver Wendell Holmes</cite>
 
 If you're buying kiln-dried firewood, I wouldn't wait later than September to get your first cord or two. 
 
@@ -128,15 +130,15 @@ The only person responsible for making sure you can get the firewood you need is
 
 What if you get hit with a delay in delivery and snow is moving in? Well, here, Treehuggers may be a godsend. 
 
-On Saturday mornings, they usually offer self-service pickup until noon. It's first-come, first-served, and there's usually a line of cars waiting.
+On Saturday mornings, they usually offer <a href="https://treehuggerfarms.com/self-pick-up-firewood/" target="blank">self-service pickup</a> until 1pm. 
 
 You can take a maximum of one cord. Most people simply fill up the back of their car or pickup truck, and Donna Clark (co-owner) will eyeball it when you're done to price it. 
 
-If you bring a pickup, they'll use one of their scoopers to fill your vehicle for you. 
+If you bring a pickup, they'll use one of their scoopers to fill your vehicle for you. Before dumping the scoop in your truck bed, they place a protective barrier against the back window
 
 #### Source Kindling
 
-You'll also need make a plan to get kindling - and an adequate amount of it. 
+You'll also need make a plan to get kindling - and an adequate amount of it.
 
 Friends of mine gather their own kindling from the forest floor. I used to buy kindling in giant bags that a local farmer provided for sale at a nearby gas station. Then suddenly, the next year, the farmer stopped providing it. 
 
@@ -146,17 +148,19 @@ Typically, when the delivery truck dumps your pile of firewood there'll be a goo
 
 But it wont' be enough to last the winter. 
 
-Here's what I recommend:
+Here are some options:
 
-1. Buy and use <a href="https://www.amazon.com/AW-Perkins-Fire-Starters-Squares/dp/B004KSBQZQ/" target="blank">A.W. Perkins Firestarters.</a> \
-   You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
-2. Buy a <a href="https://www.amazon.com/stores/node/12670190011?_encoding=UTF8&field-lbr_brands_browse-bin=Kindling%20Cracker&ref_=bl_dp_s_web_12670190011" target="blank">Kindling Cracker</a>. \
-   This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kindling Cracker runs around $99. 
+1. On a self-pickup day, go to Treehuggers to get kindling. 
+2. Also buy and use <a href="https://www.amazon.com/AW-Perkins-Fire-Starters-Squares/dp/B004KSBQZQ/" target="blank">A.W. Perkins Firestarters</a> or <a href="https://www.amazon.com/Rutland-50B-Safe-Starter-Squares/dp/B00138MO16/" target="blank">Rutland Firestarters</a>. You can get these a box of 144 of these from Amazon for $22-$25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually.
+3. Buy a big box of fatwood to use with your firestarters. You can get it from a hardware store or online.
+
+
+Skip the <a href="https://www.amazon.com/stores/node/12670190011?_encoding=UTF8&field-lbr_brands_browse-bin=Kindling%20Cracker&ref_=bl_dp_s_web_12670190011" target="blank">Kindling Cracker</a>. I bought one of these and it was pretty much useless. 
 
 Other options:
 
-1. You can buy a gas-powered log splitter to break your logs into smaller pieces
-2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
+1. You can buy a gas-powered or hydrualic log splitter to break your big logs into smaller pieces
+2. Be a real Yank and use a maul to split your own firewood. (My 84-year old neighbor does this!)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto,e_sharpen/v1579385558/ruralnh/pat-baker-westmoreland-nh_iac2hc.jpg" alt="pat baker westmoreland nh"><p><em>My neighbor Pat, with some of his handiwork, chain-sawed and hand-split from whole logs obtained from Treehuggers. Pat prepped 5 cords of firewood this season</em></p><hr>
 
@@ -194,7 +198,7 @@ You'll use a large scoop to deposit wood pellets into a tray near the top of you
 
 Like propane stoves, your pellet stove can be connected to a thermostat. When the temperature dips below a certain level, an automated mechanism will tilt the internal tray holding pellets and dump more on to the fire. 
 
-Pellets are easier to physically manage than firewood. However, you'll need to keep an eye on suppliers. 
+Pellets are easier to physically manage than firewood. However, you'll need to keep an eye on suppliers. Every so often, you'll hear of a plant shutting down and that can create a shortage.
 
 Right now, $7-8 will get you a 40-lb bag of pellets. That lasts about 24 hours. Expect to need 100-150 bags to cover your winter heating needs.
 
@@ -208,7 +212,7 @@ My backup was (and is) electric baseboard heat. However, I'd suggest you avoid u
 
 Electricity in New Hampshire costs more per kWh than the national average. (See <a href="https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf" target="blank">this chart</a> for state-by-state comparisons.)
 
-As some have pointed out, average monthly electric bills here are below the national average. It's also true that many New Hampshire homes ration their heat (keeping temperatures at 55 or so). 
+As some have pointed out, average monthly electric bills here are below the national average. It's also true that many New Hampshire homes ration their heat (keeping temperatures at 55F or so). 
 
 Many homes here also do not have air conditioning, even though we get summer temperatures in the 90s. So I wonder if these facts play into these statistics. That, and Yankees know *how* to be — and *enjoy* being — frugal.
 
@@ -216,7 +220,7 @@ Many homes here also do not have air conditioning, even though we get summer tem
 
 If you're not using a thermostat-controlled propane stove or pellet stove, it's likely your home will be cold before morning. 
 
-You can put an "all-night" (a large log) into your fireplace or wood stove, but that log will burnout long before dawn. 
+You can put an "all-nighter" (a large log) into your fireplace or wood stove, but that log will burn out long before dawn. 
 
 I've tried oil-filled radiators and found these to be inefficient electricity guzzlers. 
 
