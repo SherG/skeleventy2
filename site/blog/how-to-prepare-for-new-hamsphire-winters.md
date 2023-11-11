@@ -159,7 +159,7 @@ Skip the <a href="https://www.amazon.com/stores/node/12670190011?_encoding=UTF8&
 
 Other options:
 
-1. You can buy a gas-powered or hydrualic log splitter to break your big logs into smaller pieces
+1. You can buy a gas-powered or <a href="https://www.harborfreight.com/lawn-garden/outdoor-power-tools/log-splitters/10-ton-hydraulic-log-splitter-67090.html" target="blank">hydrualic (cheaper) log splitter</a> to break your big logs into smaller pieces
 2. Be a real Yank and use a maul to split your own firewood. (My 84-year old neighbor does this!)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto,e_sharpen/v1579385558/ruralnh/pat-baker-westmoreland-nh_iac2hc.jpg" alt="pat baker westmoreland nh"><p><em>My neighbor Pat, with some of his handiwork, chain-sawed and hand-split from whole logs obtained from Treehuggers. Pat prepped 5 cords of firewood this season</em></p><hr>
