@@ -34,7 +34,7 @@ This is the type of small business that makes the entire area more enjoyable.
 And if you're curious, this is the work I've had done there:
 * Pressure hose replaced
 * Valve cover gasklet replaced (to fix botched job done by another garage. Oil was leaking into the sparkplug wells, triggering error codes)
-* Welding work for flange / exhaust hangar repairs
+* Welding work for flange / exhaust hanger repairs
 * Crankshaft sensor replacement
 * Snow tires mounted 
 
