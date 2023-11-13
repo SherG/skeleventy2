@@ -15,9 +15,9 @@ If you're looking for excellent auto repair services, check out Summit Automotiv
 
 This garage is on Route 12, just past London Crossroad as you're heading east toward Keene. 
 
-Summit Automotive
-979 Hwy 12, Westmoreland, NH 03467
-(603) 352-9718
+Summit Automotive <br />
+979 Hwy 12, Westmoreland, NH 03467<br />
+(603) 352-9718<br />
 
 I tried several options in southwest New Hamsphire. During the pandemic it seems some places lost their 'brain trust' as experienced mechanics retired. Probably, those places found it hard to replace that talent. 
 
