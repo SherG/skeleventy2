@@ -23,13 +23,20 @@ I tried several options in southwest New Hamsphire. During the pandemic it seems
 
 Some garages, that offered excellent service before, seemed to fall apart. For example, I used to go to a place in Chesterfield. But after 2 botched repairs, which cost me double to get re-done, I simply couldn't go back. So I returned to my former mechanic, the sterling Joe of Bennington Garage, some 45 minutes away. It was well worth it to me to drive 1 hour and a half for Joe's expertise.
 
-But, alas, Joe retired. And that's when my neighbor told me that Summit Automotive had been doing "great work" for him. So I took my car in. 
+Recently Joe retired. And that's when my neighbor told me that Summit Automotive had been doing "great work" for him. So I took my car in. 
 
-Diagnostics were superb, attention to detail was excellent, and customer service is top-notch. 
+Diagnostics are superb, attention to detail is excellent, and customer service is top-notch. 
 
 If you're looking for a 100% honest auto repair shop, do check out the good folks at Summmit Automotive in Westmoreland. 
 
 This is the type of small business that makes the entire area more enjoyable. 
+
+And if you're curious, this is the work I've had done there:
+* Pressure hose replaced
+* Valve cover gasklet replaced (to fix botched job done by another garage. Oil was leaking into the sparkplug wells, triggering error codes)
+* Welding work for flange / exhaust hangar repairs
+* Crankshaft sensor replacement
+* Snow tires mounted 
 
 
 
