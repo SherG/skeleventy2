@@ -21,7 +21,7 @@ Summit Automotive <br />
 
 I tried several options in southwest New Hamsphire. During the pandemic it seems some places lost their 'brain trust' as experienced mechanics retired. Probably, those places found it hard to replace that talent. 
 
-Some garages, that offered excellent service before, seemed to fall apart. For example, I used to go to a place in Chesterfield. But after 2 botched repairs, which cost me double to get re-done, I simply couldn't go back. So I returned to my former mechanic, the sterling Joe of Bennington Garage, some 45 minutes away. It was well worth it to me to drive 1 hour and a half for Joe's expertise.
+Some garages, that offered excellent service before, seemed to fall apart. For example, I used to go to a place in Chesterfield. But after 2 botched repairs, which cost me double to get re-done, I simply couldn't go back. So I returned to my former mechanic, the sterling Joe of Bennington Garage, some 45 minutes away. It was well worth it to me to drive 1 hour and a half for Joe's expertise. And I always enjoyed seeing Joe and catching up. 
 
 Recently Joe retired. And that's when my neighbor told me that Summit Automotive had been doing "great work" for him. So I took my car in. 
 
@@ -31,7 +31,7 @@ If you're looking for a 100% honest auto repair shop, do check out the good folk
 
 This is the type of small business that makes the entire area more enjoyable. 
 
-And if you're curious, this is the work I've had done there:
+And if you're curious, here's some of the work I've had done there.
 * Pressure hose replaced
 * Valve cover gasket replaced (to fix botched job done by another garage. Oil was leaking into the sparkplug wells, triggering error codes)
 * Welding work for flange / exhaust hanger repairs
