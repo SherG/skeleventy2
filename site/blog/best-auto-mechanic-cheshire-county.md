@@ -36,7 +36,8 @@ And if you're curious, here's some of the work I've had done there.
 * Valve cover gasket replaced (to fix botched job done by another garage. Oil was leaking into the sparkplug wells, triggering error codes)
 * Welding work for flange / exhaust hanger repairs
 * Crankshaft sensor replacement
-* Snow tires mounted 
+* Snow tires mounted
+* Lower control arms replaced
 
 
 
