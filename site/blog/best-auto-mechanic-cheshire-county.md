@@ -2,7 +2,7 @@
 date: 2023-11-13
 title: Summit Automotive - Excellent Auto Repair Shop in Cheshire County
 meta_description: Looking for superb customer service and auto repair? We highly recommend Summit Automotive in Westmoreland
-post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1699893401/ruralnh/car-engine_btpvkx.avif
+post_image: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1728575017/ruralnh/summit-automotive-westmoreland-nh_qiejod.png
 image_alt: Have high standards for auto repair? They'll be 100% met at Summit Automotive.
 sub_heading: Have high standards for auto repair? They'll be 100% met here.
 tags:
